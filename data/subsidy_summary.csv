@@ -1,0 +1,4 @@
+,Is_Subsidized,Energy_Production,Energy_Production,Energy_Production,Efficiency_Score
+,,count,mean,sum,mean
+0,False,503,767.3390059642147,385971.52,251.4631013916501
+1,True,497,767.3118913480886,381354.01,245.27949698189136
