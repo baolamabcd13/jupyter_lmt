@@ -65,6 +65,8 @@ Sau đó mở file `renew_final_advanced_sorted.ipynb` để xem và chạy toà
 
 ---
 
+/Users/baolamabcd/Workspace/project/jupyter/LMT/image.png
+
 ---
 
 ## 📘 BÁO CÁO ĐỀ TÀI CÁ NHÂN
