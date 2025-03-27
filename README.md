@@ -71,13 +71,7 @@ Sau đó mở file `renew_final_advanced_sorted.ipynb` để xem và chạy toà
 
 ## 📘 BÁO CÁO ĐỀ TÀI CÁ NHÂN
 
-**Môn học:** Kho Dữ Liệu và Khai Phá Dữ Liệu  
-**Học kỳ:** [Điền học kỳ]  
-**Họ và tên:** [Tên sinh viên]  
-**Mã số sinh viên:** [MSSV]  
-**Tên đề tài:** Phân tích dữ liệu năng lượng tái tạo
-
----
+## d
 
 ## 📌 PHẦN 1: GIỚI THIỆU VỀ CƠ SỞ DỮ LIỆU
 
